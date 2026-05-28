@@ -1,0 +1,13 @@
+__pycache__/
+runs/
+data/
+data_split/
+*.pt
+*.pth
+*.cache
+*.pyc
+.env
+.ipynb_checkpoints/
+*.zip
+*.jpg
+*.png
